@@ -2,7 +2,7 @@
 
 ### Full-stack Engineer
 
-### Teck_stck
+### Tech_stack
 #### Back-end
 
 - Spring framework 3️⃣
