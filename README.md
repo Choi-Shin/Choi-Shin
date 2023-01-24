@@ -25,8 +25,8 @@
 - Java 3️⃣
 - C 2️⃣
 - Go 1️⃣
-- Javascript 1️⃣
-- Python 2️⃣
+- Javascript 3️⃣
+- Python 3️⃣
 
 #### DevOps
 
