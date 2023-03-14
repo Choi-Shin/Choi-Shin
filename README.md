@@ -36,7 +36,7 @@
 
 [![Choi-Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-shin)](https://github.com/anuraghazra/github-readme-stats)
 
-### If you want to see more... here is link: [`resume`]()<--이력서 넣을 자리
+### If you want to see more... here is link: [`resume`](https://www.notion.so/choi-shin/9765258ba23f4f2399c58f417d3599d8?pvs=4)
 
 <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Choi-Shin/"/></a>
 
