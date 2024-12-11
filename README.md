@@ -41,6 +41,7 @@
 
 <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Choi-Shin/"/></a>
 
+<img src="https://backend.codecrafters.io/progress/shell/4ea578d6-fb4f-4d30-a3fc-3b63767e3082"/>
 <!--
 **738/738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
